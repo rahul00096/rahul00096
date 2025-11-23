@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @rahul00096
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋, I'm Rahul Yadav
 
-<!---
-rahul00096/rahul00096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✌️ Passionate Software Engineer
+
+❤️ Dedicated to crafting elegant code and building innovative solutions.
+
+🌱Constantly challenging myself with LeetCode's toughest problems to sharpen my problem-solving skills and level up as a software engineer #DSA.
+
